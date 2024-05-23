@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21CDD871-1C52-4915-9BCD-FD233D7FEABC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15074E40-8E08-41DE-8E64-5C105607CD36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "ListUserInRestaurantModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - 6ea32674264daf73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Project_IOS.ListUserInRestaurantModel.errorMessage : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - 80f04ce7f23f13b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.errorMessage.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - 26dce90f45ba2137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.errorMessage.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - 26477c474c1b5526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.errorMessage.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - 9975755cdc1ef18f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.errorMessage.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - 2c1e52282c0dec6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.$errorMessage.getter : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - ae63b01716177466"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.$errorMessage.setter : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - cf4c22d2dc96db25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.$errorMessage.modify : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - d23b210774a888df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.$errorMessage.modify : Combine.Published&lt;Swift.Optional&lt;Swift.String&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "15074E40-8E08-41DE-8E64-5C105607CD36 - 6ef789a87083cc62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_IOS.ListUserInRestaurantModel.init() -&gt; Project_IOS.ListUserInRestaurantModel"
+                  moduleName = "Project_IOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bbouhedd/Desktop/Project_IOS/Project_IOS/ViewModels/ListUserInRestaurantModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
